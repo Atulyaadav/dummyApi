@@ -3,7 +3,7 @@
   "message": "success",
   "data": {
     "id": 1,
-    "title": "Hello",
+    "title": "New update",
     "minimum_version": "3",
     "current_version": "1",
     "current_version_name": "1.0.0",
